@@ -4,7 +4,7 @@
 
 
 <?php
-// This is a single-line comment
+echo "hallo ges"
 
 # This is also a single-line comment
 ?>
